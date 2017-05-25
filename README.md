@@ -1,9 +1,7 @@
 # hello-world
-    <p align="center">
-        <a>
-             <img src="images/hello-world.PNG" width="300">
-        </a>
-    </p>
+
+![hello-world](https://cloud.githubusercontent.com/assets/18649128/26458688/5dc53312-414a-11e7-81a4-f1947445a1ff.PNG)
+
 ## A origem
 Quem já é programador(a) já utilizou este termo lá no início de seu aprendizado, mas será que sabe a origem do mesmo?
 A moda de usar o “Hello World” (Olá Mundo) foi criada por Brian Kernighan em 1972, que escreveu um código em C no seu livro
