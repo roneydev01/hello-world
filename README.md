@@ -10,12 +10,12 @@ A moda de usar o “Hello World” (Olá Mundo) foi criada por Brian Kernighan e
 “A Linguagem de Programação C” (The C Programming Language) no 1 capítulo e o código contido era o seguinte:
 
 ``` bash
-    <code> int main() </br>
-        { </br>
-        printf("Hello world!\n");</br>
-        return 0;</br>
-        }</br>
-    </code>
+        int main()
+        {
+            printf("Hello world!\n");
+            return 0;
+        }
+
 ```
 
 Segundo Brian Kernighan essa foi a melhor e mais simples maneira de ensinar a instrução printf,
